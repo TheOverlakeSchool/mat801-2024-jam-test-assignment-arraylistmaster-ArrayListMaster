@@ -5,25 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4e2e297-4e5d-4d19-bfe0-d550d7ec8113" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayListMaster.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayListMaster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayIntListMaster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayListMaster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayListMaster.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AnthonyC2025&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/TheOverlakeSchool/jam-test-assignment-arraylistmaster-AnthonyC2025.git&quot;,
+    &quot;accountId&quot;: &quot;5c3abb0d-8da4-4657-add1-8b78043dc24f&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2mALH2ArsBilVOdnsWppVuG5aVE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -32,10 +47,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArrayIntListMaster.executor": "Run",
     "Application.ArrayListMaster.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "ArrayIntListMaster",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/notho/Desktop/Data_Structures/jam-test-assignment-arraylistmaster-AnthonyC2025",
     "onboarding.tips.debug.path": "C:/Users/JeroneMitchell/Documents/GitHub/ArrayListMaster/src/Main.java"
   }
 }]]></component>
@@ -55,7 +72,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ArrayListMaster.java</url>
-          <line>11</line>
+          <line>10</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>

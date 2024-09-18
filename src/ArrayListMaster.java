@@ -5,7 +5,6 @@ import java.util.Scanner;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class ArrayListMaster {
 
-
     public static void main(String[] args) {
         boolean completed = false;
         ArrayList<String> valuesList = new ArrayList<String>();
