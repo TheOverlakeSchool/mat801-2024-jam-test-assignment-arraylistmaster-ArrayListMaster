@@ -4,26 +4,44 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4e2e297-4e5d-4d19-bfe0-d550d7ec8113" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayListMaster.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayListMaster.java" afterDir="false" />
+    <list default="true" id="f4e2e297-4e5d-4d19-bfe0-d550d7ec8113" name="Changes" comment="-">
+      <change afterPath="$PROJECT_DIR$/src/ArrayIntListMaster.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "olenakhetan"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/TheOverlakeSchool/jam-test-assignment-arraylistmaster-olenakhetan.git",
+    "accountId": "37de98bd-b667-4764-9d42-698ac411bd7d"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2mALH2ArsBilVOdnsWppVuG5aVE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -32,9 +50,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArrayIntListMaster.executor": "Run",
     "Application.ArrayListMaster.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "arrayintlist__olena__branch",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/JeroneMitchell/Documents/GitHub/ArrayListMaster/src/Main.java"
   }
@@ -48,7 +67,29 @@
       <option name="presentableId" value="Default" />
       <updated>1726514342968</updated>
     </task>
+    <task id="LOCAL-00001" summary="Modify ArrayListMaster to use integers">
+      <option name="closed" value="true" />
+      <created>1726706018606</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726706018606</updated>
+    </task>
+    <task id="LOCAL-00002" summary="-">
+      <option name="closed" value="true" />
+      <created>1726706601919</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726706601919</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Modify ArrayListMaster to use integers" />
+    <MESSAGE value="-" />
+    <option name="LAST_COMMIT_MESSAGE" value="-" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
