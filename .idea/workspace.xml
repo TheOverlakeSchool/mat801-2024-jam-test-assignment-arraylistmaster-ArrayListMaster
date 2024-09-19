@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4e2e297-4e5d-4d19-bfe0-d550d7ec8113" name="Changes" comment="Modify ArrayListMaster to use integers">
-      <change beforePath="$PROJECT_DIR$/src/ArrayIntListMaster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayIntListMaster.java" afterDir="false" />
+    <list default="true" id="f4e2e297-4e5d-4d19-bfe0-d550d7ec8113" name="Changes" comment="-">
+      <change afterPath="$PROJECT_DIR$/src/ArrayIntListMaster.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -48,7 +53,7 @@
     "Application.ArrayIntListMaster.executor": "Run",
     "Application.ArrayListMaster.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "arrayintlist__olena__branch",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/JeroneMitchell/Documents/GitHub/ArrayListMaster/src/Main.java"
   }
@@ -70,12 +75,21 @@
       <option name="project" value="LOCAL" />
       <updated>1726706018606</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="-">
+      <option name="closed" value="true" />
+      <created>1726706601919</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726706601919</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Modify ArrayListMaster to use integers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modify ArrayListMaster to use integers" />
+    <MESSAGE value="-" />
+    <option name="LAST_COMMIT_MESSAGE" value="-" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
